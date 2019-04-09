@@ -1,0 +1,1 @@
+const weiwei = 'GOOD GOOD!!!';
